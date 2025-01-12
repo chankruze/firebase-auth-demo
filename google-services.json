@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246285391106",
+    "project_id": "rn-firebase-demo-bdaba",
+    "storage_bucket": "rn-firebase-demo-bdaba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246285391106:android:20af5f819f2073f9261e1b",
+        "android_client_info": {
+          "package_name": "com.chankruze.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246285391106-uv87s78ppvhu3flool1vnhj0o18sr5fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chankruze.firebaseauthdemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "246285391106-u7852gksg3t0sp3fmj6nm55fhkjqc6cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkW3xIV-kj7gRHJdE03Y8MLSlJQzOUJPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246285391106-u7852gksg3t0sp3fmj6nm55fhkjqc6cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
